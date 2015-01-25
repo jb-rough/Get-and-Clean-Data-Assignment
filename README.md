@@ -6,7 +6,7 @@ See the Codebook for an explaination of the variables and methodology.
 The R script file for the implementation of the data analysis is below.
 
 Set the working directory if needed, comment out after 1st run
-#setwd("./R/UCIHARD")
+setwd("./R/UCIHARD")
 
 6 activites encoded numerically are read into a data frame
 1 WALKING
